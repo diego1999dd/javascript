@@ -1,3 +1,4 @@
+// aula 01
 //const leia = require('readline-sync')
 
 //let n1, n2
@@ -14,3 +15,40 @@
 //console.log("A Subtracao de n1 - n2 é igual a: ", n1 - n2)
 //console.log("A Multiplicacao de n1 * n2 é igual a: ", n1 * n2)
 //console.log("A Divisao de n1 / n2 é igual a: ", n1 / n2)
+
+//aula 02 começo
+//let nome = "Diego"
+//let profissão = "Pessoa Desenvolvedora"
+//let salarioBruto = 3500.44
+//const bonus = 0.05
+
+//console.log("\nNome: ", nome)
+
+//console.log("\nTipo da variavel:", typeof nome)
+
+//nome = 12
+
+//console.log("\nNome: ", nome)
+// o typeof te fala o tipo da variavel se ela é number ou string, etc
+//console.log("\nTipo da variavel:", typeof nome)
+
+//aula02parte2
+//let nome = "Diego"
+//let profissao = "Pessoa Desenvolvedora"
+//let salarioBruto = 3500.44
+//const bonus = 0.05
+
+//console.log("\nNome: ", nome)
+//console.log("\nProfissão: ", profissao)
+
+//console.log('Salário Liquido: ', new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL', }).format(salarioBruto + (bonus * salarioBruto)))
+
+//console.log(`O Salário Bruto do Colaborador  ${nome} é ${salarioBruto}`)
+
+//console.log("\nTipo da variavel:", typeof nome)
+
+//nome = 12
+
+//console.log("\nNome: ", nome)
+
+//console.log("\nTipo da variavel:", typeof nome)
