@@ -1,5 +1,6 @@
 const leia = require('readline-sync')
 
+//defini as variaveis
 let nota1, nota2, nota3, nota4;
 let mediaFinal;
 
